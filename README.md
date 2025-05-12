@@ -2,7 +2,7 @@
 
 Een bedrijf heeft magazijnen over heel België. Gebruik LINQ en modelklassen om onderstaande queries uit te voeren.
 
-## Vereiste modelklassen (niet inbegrepen in deze code)
+## Vereiste modelklassen
 
 Zorg ervoor dat je twee modelklassen maakt met de volgende properties:
 
